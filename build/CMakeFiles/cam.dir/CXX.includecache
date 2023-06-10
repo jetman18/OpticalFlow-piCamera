@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pipi/testcam/cam.cpp
+vector
+-
+ctime
+-
+serial.hpp
+/home/pipi/testcam/serial.hpp
+string.h
+-
+unistd.h
+-
+fstream
+-
+sys/time.h
+-
+iostream
+-
+flow.hpp
+/home/pipi/testcam/flow.hpp
+raspicam/raspicam.h
+-
+
+/home/pipi/testcam/flow.hpp
+stdint.h
+-
+
+/home/pipi/testcam/serial.hpp
+termios.h
+-
+

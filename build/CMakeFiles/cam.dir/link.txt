@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/cam.dir/cam.cpp.o CMakeFiles/cam.dir/flow.cpp.o CMakeFiles/cam.dir/serial.cpp.o -o cam   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lmmal_core -lmmal_util -lmmal -lraspicam 

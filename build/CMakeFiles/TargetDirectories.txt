@@ -1,0 +1,3 @@
+/home/pipi/testcam/build/CMakeFiles/rebuild_cache.dir
+/home/pipi/testcam/build/CMakeFiles/edit_cache.dir
+/home/pipi/testcam/build/CMakeFiles/cam.dir

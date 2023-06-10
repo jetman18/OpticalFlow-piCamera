@@ -1,0 +1,6 @@
+cmake_minimum_required (VERSION 2.8) 
+project (cam)
+set (CMAKE_MODULE_PATH "/usr/local/lib/cmake/${CMAKE_MODULE_PATH}")
+find_package(raspicam REQUIRED)
+add_executable (cam cam.cpp flow.cpp serial.cpp)  
+target_link_libraries (cam ${raspicam_LIBS})
