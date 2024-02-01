@@ -1,9 +1,8 @@
 # flow-piCamera
-Xác định chuyển động sử dụng Raspberrypi và camera ứng dụng giữ vị trí cho
+Xác định chuyển động sử dụng Raspberrypi và camera ứng dụng giữ vị trí cho Quadrotor
 # Phần cứng
-raspberrypi zero
+raspberrypi zero,
 pi camera v1
-Quadrotor
 Thử thuật toán              |  Bay thử nghiệm
 :-------------------------:|:-------------------------:
 ![exampl](./Picture1.png)  |![exampl](./Picture2.png)
