@@ -1,6 +1,12 @@
 # flow-piCamera
-# Test
-https://youtube.com/shorts/S2NT1ccY1D4?si=jcyBfBnPB7z2cMwY
-# Flight test
+Xác định chuyển động sử dụng Raspberrypi và camera ứng dụng giữ vị trí cho
+Quadrotor
+Thử thuật toán              |  Bay thử nhiệm
+:-------------------------:|:-------------------------:
+![exampl](./Picture1.png)  |![exampl](./Picture2.png)
+# Vị trí theo thời gian
+![exampl](./Picture3.png)
+
+# Bay thử nghiệm
 https://www.youtube.com/watch?v=89pcLAhuY8Y
 
