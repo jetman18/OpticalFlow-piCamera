@@ -6,9 +6,9 @@ raspberrypi zero,
 pi camera v1
 Thử thuật toán              |  Bay thử nghiệm
 :-------------------------:|:-------------------------:
-![exampl](./Picture1.png)  |![exampl](./Picture2.png)
+![exampl](./resource/Picture1.png)  |![exampl](./resource/Picture2.png)
 # Vị trí theo thời gian
-![exampl](./Picture3.png)
+![exampl](./resource/Picture3.png)
 
 # Bay thử nghiệm
 https://www.youtube.com/watch?v=89pcLAhuY8Y
