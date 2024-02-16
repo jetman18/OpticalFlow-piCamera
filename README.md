@@ -4,12 +4,9 @@ thông qua cổng UART với chu kì 20 Hz, dữ liệu sau đó được mạch
 # Phần cứng
 raspberrypi zero,
 pi camera v1
-Thử thuật toán              |  Bay thử nghiệm https://www.youtube.com/watch?v=89pcLAhuY8Y
+Thử nghiệm thuật toán              |  Bay thử nghiệm https://www.youtube.com/watch?v=89pcLAhuY8Y
 :-------------------------:|:-------------------------:
 ![exampl](./resource/Picture1.png)  |![exampl](./resource/Picture2.png)
 # Vị trí theo thời gian
 ![exampl](./resource/Picture3.png)
-
-# Bay thử nghiệm
-https://www.youtube.com/watch?v=89pcLAhuY8Y
 
