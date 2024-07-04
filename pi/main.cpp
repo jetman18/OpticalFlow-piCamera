@@ -58,5 +58,6 @@ int main ( int argc,char **argv ) {
     //double tim = (((endd.tv_sec  - startt.tv_sec) * 1000 + (endd.tv_usec - startt.tv_usec)/1000.0) + 0.5)/1000.;   //save
     //cout<<tim<<endl;
     //free resrources    
-    delete data;
-    return 0;}
+    //delete data;
+    return 0;
+    }
